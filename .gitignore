@@ -1,0 +1,4 @@
+android-ndk-*
+shrx-*
+system/bin/shrx
+system/etc/shrx.conf.*
